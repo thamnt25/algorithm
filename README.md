@@ -1,1 +1,1 @@
-# algorithm
+Practicing data structure and algorithms
